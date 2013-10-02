@@ -1,0 +1,11 @@
+In order to initialize the program place the @SMATool folder on an easy to reach place on your computer and follow the steps below:
+
+1. Start MATLAB
+2. Go to the parent folder to @SMATool
+3. Write SMATool in the MATLAB prompt.
+4. Use the software.
+
+Much more detailed descriptions of the usage and built in functions will appear here within a short time. Please be patient.
+
+Sincere Regards
+Fredrik Persson (Freddie (dot) persson (at) gmail (dot) com)
